@@ -1,0 +1,462 @@
+2023.12.19 21:38:08 INFO  Started: Metals version 1.2.0 in folders 'C:\Projects\OpenCV-Scala\opencv-scala' for client Visual Studio Code 1.84.2.
+2023.12.19 21:38:09 WARN  Build server is not auto-connectable.
+2023.12.19 21:38:09 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:38:21 INFO  running 'C:\Program Files\Java\jdk-11\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Siddh\AppData\Local\Temp\metals2550741525677491863\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.12.19 21:38:21 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.7  (this may take some time)...
+2023.12.19 21:38:23 INFO  no build target found for C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.19 21:38:27 INFO  time: code lens generation in 11s
+2023.12.19 21:38:38 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:38:38 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:38:38 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:38:38 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 11.0.18)
+2023.12.19 21:38:39 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\project\metals.sbt
+2023.12.19 21:38:39 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/project/metals.sbt
+2023.12.19 21:38:40 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/project/metals.sbt
+2023.12.19 21:38:40 INFO  [info] loading global plugins from C:\Users\Siddh\.sbt\1.0\plugins
+2023.12.19 21:38:42 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:38:42 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:38:42 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:38:48 INFO  [info] loading settings for project opencv-scala-build-build from metals.sbt ...
+2023.12.19 21:38:48 INFO  [info] loading project definition from C:\Projects\OpenCV-Scala\opencv-scala\project\project
+2023.12.19 21:38:52 INFO  [info] loading settings for project opencv-scala-build from metals.sbt ...
+2023.12.19 21:38:52 INFO  [info] loading project definition from C:\Projects\OpenCV-Scala\opencv-scala\project
+2023.12.19 21:38:54 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:39:07 INFO  [success] Generated .bloop\opencv-scala-build.json
+2023.12.19 21:39:07 INFO  [success] Total time: 15 s, completed 19-Dec-2023, 9:39:07 PM
+2023.12.19 21:39:08 ERROR C:\Projects\OpenCV-Scala\opencv-scala\build.sbt:11: error: object bytedeco is not a member of package org
+2023.12.19 21:39:08 ERROR val platform = org.bytedeco.javacpp.Loader.Detector.getPlatform
+2023.12.19 21:39:08 ERROR                    ^
+2023.12.19 21:39:08 ERROR sbt.compiler.EvalException: Type error in expression
+2023.12.19 21:39:08 INFO  [error] sbt.compiler.EvalException: Type error in expression
+2023.12.19 21:39:08 INFO  [error] Use 'last' for the full log.
+2023.12.19 21:39:08 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+2023.12.19 21:39:08 INFO  time: ran 'sbt bloopInstall' in 47s
+2023.12.19 21:39:08 ERROR sbt command failed: C:\Program Files\Java\jdk-11\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Siddh\AppData\Local\Temp\metals2550741525677491863\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2023.12.19 21:39:10 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:41:41 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:45:39 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:45:43 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:45:43 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:50:55 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:50:55 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:50:55 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:50:59 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:50:59 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:50:59 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:23 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:24 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:51:24 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:51:23 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:31 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:33 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:33 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:51:34 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:51:34 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:51:34 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:52:01 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:52:25 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:52:32 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:54:24 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:26 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:27 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:54:27 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:32 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:54:32 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:54:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:35 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:36 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:54:36 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:54:36 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:37 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:54:37 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:54:37 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:57 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.19 21:54:58 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:54:58 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:55:05 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:55:05 INFO  skipping build import with status 'Dismissed'
+2023.12.19 21:55:41 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 21:55:41 INFO  skipping build import with status 'Dismissed'
+Dec 19, 2023 9:56:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 335
+2023.12.19 21:56:49 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+Dec 19, 2023 9:56:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 351
+2023.12.19 21:56:53 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:56:54 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+Dec 19, 2023 9:56:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 385
+2023.12.19 21:57:00 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:57:05 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+Dec 19, 2023 9:57:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 435
+2023.12.19 21:57:16 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 21:57:21 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:01:11 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:01:21 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:01:36 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:01:40 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:01:43 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:01:44 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+Dec 19, 2023 10:02:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 583
+2023.12.19 22:02:24 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:02:26 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: unclosed string interpolation
+    println("caption: " + caption")
+                                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:02:27 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:02:27 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: unclosed string interpolation
+    println("caption: " + caption")
+                                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:02:31 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: unclosed string interpolation
+    println("caption: " + caption")
+                                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:659)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:357)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:02:32 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.19 22:09:55 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 22:10:01 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 22:10:01 INFO  skipping build import with status 'Dismissed'
+2023.12.19 22:10:11 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+scala.meta.tokenizers.TokenizeException: <input>:13: error: invalid escape character
+javaOptions += s"-Djava.library.path=${file("C:\Projects\OpenBLAS-0.3.25").getAbsolutePath}"
+                                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:10:12 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 22:10:11 WARN  Could not calculate checksum for sbt in C:\Projects\OpenCV-Scala\opencv-scala
+2023.12.19 22:10:12 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+scala.meta.tokenizers.TokenizeException: <input>:13: error: invalid escape character
+javaOptions += s"-Djava.library.path=${file("C:\Projects\OpenBLAS-0.3.25").getAbsolutePath}"
+                                                ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:10:16 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+scala.meta.tokenizers.TokenizeException: <input>:13: error: invalid escape character
+javaOptions += s"-Djava.library.path=${file("C:Projects\OpenBLAS-0.3.25").getAbsolutePath}"
+                                                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:10:16 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+scala.meta.tokenizers.TokenizeException: <input>:13: error: invalid escape character
+javaOptions += s"-Djava.library.path=${file("C:/Projects\OpenBLAS-0.3.25").getAbsolutePath}"
+                                                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:10:17 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 22:10:17 WARN  Could not calculate checksum for sbt in C:\Projects\OpenCV-Scala\opencv-scala
+2023.12.19 22:10:17 ERROR Failed to tokenize input for semantic tokens for C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+scala.meta.tokenizers.TokenizeException: <input>:13: error: invalid escape character
+javaOptions += s"-Djava.library.path=${file("C:/Projects\OpenBLAS-0.3.25").getAbsolutePath}"
+                                                         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.invalidEscape(LegacyScanner.scala:744)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChar(LegacyScanner.scala:732)
+	at scala.meta.internal.tokenizers.LegacyScanner.getLitChars(LegacyScanner.scala:753)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:546)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+2023.12.19 22:10:20 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 22:10:20 INFO  skipping build import with status 'Dismissed'
+2023.12.19 23:34:30 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 23:34:32 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 23:34:32 INFO  skipping build import with status 'Dismissed'
+2023.12.19 23:36:29 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 23:36:30 INFO  skipping build import with status 'Dismissed'
+2023.12.19 23:40:34 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 23:40:36 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 23:40:36 INFO  skipping build import with status 'Dismissed'
+2023.12.19 23:42:30 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.19 23:42:30 INFO  skipping build import with status 'Dismissed'
+2023.12.19 23:42:37 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+Dec 19, 2023 11:51:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 817
+Dec 20, 2023 12:02:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 830
+2023.12.20 00:02:25 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:25 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:25 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:29 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:29 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:02:31 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:32 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:32 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:02:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:33 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:34 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:34 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:02:34 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:35 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:37 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:37 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:02:51 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:51 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:51 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:02:51 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:53 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:54 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:02:54 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:02:54 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:59 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:02:59 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:03:00 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:03:01 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:03:01 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:03:02 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:03:02 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:03:02 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:03:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:03:32 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:03:32 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:03:32 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:01 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:01 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:03 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:04:03 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:04:03 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:03 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:04 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:05 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:04:05 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:04:05 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:11 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:11 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:11 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:04:12 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:04:12 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:04:12 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:00 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:01 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:05:00 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:02 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:02 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:05:02 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:05:02 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:04 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:04 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:05:04 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:05:05 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:06 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:07 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:05:07 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+2023.12.20 00:05:07 INFO  skipping build import with status 'Dismissed'
+2023.12.20 00:05:07 WARN  Could not find semantic tokens for: file:///C:/Projects/OpenCV-Scala/opencv-scala/build.sbt
+2023.12.20 00:18:05 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\build.sbt
+Dec 20, 2023 12:25:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1055
+2023.12.20 00:26:25 WARN  no build target for: C:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\Main.scala
+2023.12.20 02:15:45 INFO  Shutting down server
+2023.12.20 02:15:45 INFO  shutting down Metals
+2023.12.20 02:15:45 INFO  Exiting server

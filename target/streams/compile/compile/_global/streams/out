@@ -1,0 +1,94 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:7:8: not found: object opencv_cookbook[0m
+[0m[[0m[31merror[0m] [0m[0mimport opencv_cookbook.OpenCVUtils.toBufferedImage[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:16:14: object swing is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.swing.Dialog.Message.Error[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:17:14: object swing is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.swing.FileChooser.Result.Approve[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:18:14: object swing is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.swing._[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:20:33: not found: type SimpleSwingApplication[0m
+[0m[[0m[31merror[0m] [0m[0mobject Ex2MyFirstGUIApp extends SimpleSwingApplication {[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:22:38: not found: type FileChooser[0m
+[0m[[0m[31merror[0m] [0m[0m  private lazy val fileChooser = new FileChooser(new File("."))[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:24:12: not found: type Frame[0m
+[0m[[0m[31merror[0m] [0m[0m  def top: Frame = new MainFrame {[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:24:24: not found: type MainFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def top: Frame = new MainFrame {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:25:5: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m    title = "My First GUI Scala App"[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:36:35: not found: value Action[0m
+[0m[[0m[31merror[0m] [0m[0m    private val openImageAction = Action("Open Image") {[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:37:7: not found: value cursor[0m
+[0m[[0m[31merror[0m] [0m[0m      cursor = getPredefinedCursor(WAIT_CURSOR)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:42:22: not found: value toBufferedImage[0m
+[0m[[0m[31merror[0m] [0m[0m            val bi = toBufferedImage(mat)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:77:30: not found: type Label[0m
+[0m[[0m[31merror[0m] [0m[0m    lazy val imageView = new Label[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:54:38: not found: value Action[0m
+[0m[[0m[31merror[0m] [0m[0m    private lazy val processAction = Action("Process") {[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:55:7: not found: value cursor[0m
+[0m[[0m[31merror[0m] [0m[0m      cursor = getPredefinedCursor(WAIT_CURSOR)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:61:22: not found: value toBufferedImage[0m
+[0m[[0m[31merror[0m] [0m[0m            val bi = toBufferedImage(mat)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:64:13: not found: value Dialog[0m
+[0m[[0m[31merror[0m] [0m[0m            Dialog.showMessage(null, "Image not opened", title, Error)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:64:58: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m            Dialog.showMessage(null, "Image not opened", title, Error)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:64:65: class java.lang.Error is not a value[0m
+[0m[[0m[31merror[0m] [0m[0m            Dialog.showMessage(null, "Image not opened", title, Error)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:67:9: not found: value cursor[0m
+[0m[[0m[31merror[0m] [0m[0m        cursor = getPredefinedCursor(DEFAULT_CURSOR)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:49:9: not found: value cursor[0m
+[0m[[0m[31merror[0m] [0m[0m        cursor = getPredefinedCursor(DEFAULT_CURSOR)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:80:36: not found: type GridPanel[0m
+[0m[[0m[31merror[0m] [0m[0m    private val buttonsPanel = new GridPanel(rows0 = 0, cols0 = 1) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:81:7: not found: value contents[0m
+[0m[[0m[31merror[0m] [0m[0m      contents += new Button(openImageAction)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:81:23: not found: type Button[0m
+[0m[[0m[31merror[0m] [0m[0m      contents += new Button(openImageAction)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:82:7: not found: value contents[0m
+[0m[[0m[31merror[0m] [0m[0m      contents += new Button(processAction)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:82:23: not found: type Button[0m
+[0m[[0m[31merror[0m] [0m[0m      contents += new Button(processAction)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:83:7: not found: value vGap[0m
+[0m[[0m[31merror[0m] [0m[0m      vGap = 5[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:87:5: not found: value contents[0m
+[0m[[0m[31merror[0m] [0m[0m    contents = new BorderPanel() {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:98:5: not found: value centerOnScreen[0m
+[0m[[0m[31merror[0m] [0m[0m    centerOnScreen()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:115:7: not found: value Dialog[0m
+[0m[[0m[31merror[0m] [0m[0m      Dialog.showMessage(null, "Cannot open image file: " + path, top.title, Error)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Projects\OpenCV-Scala\opencv-scala\src\main\scala\GUIApp.scala.scala:115:78: class java.lang.Error is not a value[0m
+[0m[[0m[31merror[0m] [0m[0m      Dialog.showMessage(null, "Cannot open image file: " + path, top.title, Error)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m31 errors found[0m
